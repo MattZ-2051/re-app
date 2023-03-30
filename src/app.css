@@ -2,13 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-div,
-span,
-h1,
-p {
-	@apply text-black dark:text-white;
-}
-
 body {
-	@apply dark:bg-secondColor bg-fourthColor;
+	@apply bg-slate-400;
 }
