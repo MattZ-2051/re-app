@@ -44,6 +44,7 @@
 	},
 	"dependencies": {
 		"effector": "^22.7.0",
+		"material-icons": "^1.13.3",
 		"tw-elements": "^1.0.0-beta1"
 	}
 }
