@@ -3,5 +3,36 @@
 @tailwind utilities;
 
 body {
-	@apply bg-slate-400;
+	@apply bg-white;
+	font-family: 'Source-Serif-Pro', serif;
+}
+
+@font-face {
+	font-family: 'Source-Serif-Pro';
+	font-weight: 200;
+	src: url('$lib/assets/fonts/Source_Serif_Pro/SourceSerifPro-ExtraLight.ttf');
+}
+
+@font-face {
+	font-family: 'Source-Serif-Pro';
+	font-weight: 300;
+	src: url('$lib/assets/fonts/Source_Serif_Pro/SourceSerifPro-Light.ttf');
+}
+
+@font-face {
+	font-family: 'Source-Serif-Pro';
+	font-weight: 400;
+	src: url('$lib/assets/fonts/Source_Serif_Pro/SourceSerifPro-Regular.ttf');
+}
+
+@font-face {
+	font-family: 'Source-Serif-Pro';
+	font-weight: 600;
+	src: url('$lib/assets/fonts/Source_Serif_Pro/SourceSerifPro-SemiBold.ttf');
+}
+
+@font-face {
+	font-family: 'Source-Serif-Pro';
+	font-weight: 700;
+	src: url('$lib/assets/fonts/Source_Serif_Pro/SourceSerifPro-SemiBold.ttf');
 }

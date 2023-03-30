@@ -1,6 +1,6 @@
 <script lang="ts">
 	import NavLink from '$lib/components/common/NavLink/NavLink.svelte';
-	import reLogo from '$lib/assets/re-logo.png';
+	import reLogo from '$lib/assets/images/re-logo.png';
 </script>
 
 <nav class="h-20 bg-white w-full flex justify-between px-12 items-center text-black">
