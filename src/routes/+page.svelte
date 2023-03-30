@@ -1,6 +1,6 @@
 <script lang="ts">
 	import landingBg from '$lib/assets/landing-bg.png';
-	import Button from '$lib/components/Button/Button.svelte';
+	import Button from '$lib/components/common/Button/Button.svelte';
 </script>
 
 <div class="relative">
