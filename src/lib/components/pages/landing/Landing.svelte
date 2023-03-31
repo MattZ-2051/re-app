@@ -30,7 +30,7 @@
 		</div>
 	</div>
 	<div class="mt-24 flex justify-center flex-col items-center">
-		<h1 class="text-center text-3xl font-extralight text-black">Welcome to Boise</h1>
+		<h1 class="text-center text-5xl font-light text-black">Welcome to Boise</h1>
 		<div class="w-16 h-[1px] mt-6 bg-black" />
 		<h1 class="text-center w-1/2 mt-8 text-2xl font-light text-black">
 			Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
