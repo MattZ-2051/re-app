@@ -14,7 +14,7 @@
 	>
 		<a href={to}>{label}</a>
 		{#if showLine}
-			<span class={`z-10 bg-blue-400 inline-block h-[2px] line mt-1`} />
+			<span class={`z-10 bg-slate-500 inline-block h-[2px] line mt-1`} />
 		{:else}
 			<span class="w-full bg-transparent h-[2px]" />
 		{/if}

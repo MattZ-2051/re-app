@@ -3,7 +3,7 @@
 	import reLogo from '$lib/assets/images/re-logo.png';
 </script>
 
-<nav class="h-20 bg-white w-full flex justify-between px-12 items-center text-black">
+<nav class="h-20 bg-white w-full flex justify-between px-12 items-center text-black drop-shadow-lg">
 	<img src={reLogo} alt="" class="w-16 h-16" />
 	<div class="flex items-center">
 		<NavLink to="/" label="Home" classes="mr-6" />
