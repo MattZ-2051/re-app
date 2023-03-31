@@ -22,8 +22,10 @@
 				<p class="text-5xl">Explore Homes in Boise</p>
 				<p class="text-3xl py-4">dolor sit amet</p>
 				<p class="text-5xl">Ut enim ad</p>
+
 				<Button
 					label="Explore Homes"
+					variant="secondary"
 					classes="bg-transparent text-white border-2 mt-12 hover:scale-110"
 				/>
 			</div>

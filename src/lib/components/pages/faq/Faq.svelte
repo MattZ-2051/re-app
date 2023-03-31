@@ -39,7 +39,7 @@
 								placeholder="Message"
 							/>
 						</div>
-						<Button label="Send" classes="bg-slate-500 w-full text-white" />
+						<Button label="Send" classes="bg-slate-500 w-full text-white" variant="primary" />
 					</form>
 				</div>
 			</div>
