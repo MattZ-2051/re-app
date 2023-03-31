@@ -1,6 +1,4 @@
-<!-- Container for demo purpose -->
 <div class="container my-24 px-6 mx-auto">
-	<!-- Section: Design Block -->
 	<section class="mb-32 text-gray-800 text-center">
 		<div class="p-12">
 			<h2 class="text-5xl font-bold tracking-tight leading-tight my-12">
@@ -8,12 +6,11 @@
 				<span class="text-black">Join our social media</span>
 			</h2>
 			<div class="flex flex-wrap justify-center md:space-x-2">
-				<!-- Facebook -->
 				<button
 					type="button"
 					data-mdb-ripple="true"
 					data-mdb-ripple-color="light"
-					class="inline-block py-2.5 px-6 mb-2 text-white font-medium text-xs leading-tight uppercase rounded shadow-md hover:shadow-lg focus:shadow-lg focus:outline-none focus:ring-0 active:shadow-lg transition duration-150 ease-in-out flex items-center"
+					class="py-2.5 px-6 mb-2 text-white font-medium text-xs leading-tight uppercase rounded shadow-md hover:shadow-lg focus:shadow-lg focus:outline-none focus:ring-0 active:shadow-lg transition duration-150 ease-in-out flex items-center"
 					style="background-color: #1877f2"
 				>
 					<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512" class="w-4 h-4 mr-2">
@@ -25,12 +22,11 @@
 					Facebook
 				</button>
 
-				<!-- Twitter -->
 				<button
 					type="button"
 					data-mdb-ripple="true"
 					data-mdb-ripple-color="light"
-					class="inline-block py-2.5 px-6 mb-2 text-white font-medium text-xs leading-tight uppercase rounded shadow-md hover:shadow-lg focus:shadow-lg focus:outline-none focus:ring-0 active:shadow-lg transition duration-150 ease-in-out flex items-center"
+					class="py-2.5 px-6 mb-2 text-white font-medium text-xs leading-tight uppercase rounded shadow-md hover:shadow-lg focus:shadow-lg focus:outline-none focus:ring-0 active:shadow-lg transition duration-150 ease-in-out flex items-center"
 					style="background-color: #1da1f2"
 				>
 					<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="w-4 h-4 mr-2">
@@ -42,29 +38,11 @@
 					Twitter
 				</button>
 
-				<!-- Google -->
 				<button
 					type="button"
 					data-mdb-ripple="true"
 					data-mdb-ripple-color="light"
-					class="inline-block py-2.5 px-6 mb-2 text-white font-medium text-xs leading-tight uppercase rounded shadow-md hover:shadow-lg focus:shadow-lg focus:outline-none focus:ring-0 active:shadow-lg transition duration-150 ease-in-out flex items-center"
-					style="background-color: #ea4335"
-				>
-					<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 488 512" class="w-4 h-4 mr-2">
-						<path
-							fill="currentColor"
-							d="M488 261.8C488 403.3 391.1 504 248 504 110.8 504 0 393.2 0 256S110.8 8 248 8c66.8 0 123 24.5 166.3 64.9l-67.5 64.9C258.5 52.6 94.3 116.6 94.3 256c0 86.5 69.1 156.6 153.7 156.6 98.2 0 135-70.4 140.8-106.9H248v-85.3h236.1c2.3 12.7 3.9 24.9 3.9 41.4z"
-						/>
-					</svg>
-					Google
-				</button>
-
-				<!-- Instagram -->
-				<button
-					type="button"
-					data-mdb-ripple="true"
-					data-mdb-ripple-color="light"
-					class="inline-block py-2.5 px-6 mb-2 text-white font-medium text-xs leading-tight uppercase rounded shadow-md hover:shadow-lg focus:shadow-lg focus:outline-none focus:ring-0 active:shadow-lg transition duration-150 ease-in-out flex items-center"
+					class="py-2.5 px-6 mb-2 text-white font-medium text-xs leading-tight uppercase rounded shadow-md hover:shadow-lg focus:shadow-lg focus:outline-none focus:ring-0 active:shadow-lg transition duration-150 ease-in-out flex items-center"
 					style="background-color: #c13584"
 				>
 					<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" class="w-4 h-4 mr-2">
@@ -78,6 +56,4 @@
 			</div>
 		</div>
 	</section>
-	<!-- Section: Design Block -->
 </div>
-<!-- Container for demo purpose -->
