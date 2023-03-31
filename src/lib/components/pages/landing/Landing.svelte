@@ -4,6 +4,7 @@
 	import testImg2 from '$lib/assets/images/test-img-2.png';
 	import Button from '$lib/components/common/Button/Button.svelte';
 	import InfoSection from '$lib/components/pages/landing/InfoSection/InfoSection.svelte';
+	import StayInTouch from './StayInTouch/StayInTouch.svelte';
 
 	const northEndBody =
 		"Boise's Nort End cointains many of the city's older and historic homes. It is known for its tree-lined dries, such as Harrison Boulevard, and for its quiet neighberhoods near the downtown and mountain trail areas - walking distance for most residents. The North End is a gateway to the Boise Foothills, hom eot Camel's Back Park and the historic Hyde Park. If you are looking for charming and convenient, this is the place to be.";
@@ -44,4 +45,5 @@
 	<InfoSection body={northEndBody} title="North End" img={landingBg} />
 	<InfoSection body={northEndBody} title="Downtown" img={testImg1} flip={true} />
 	<InfoSection body={northEndBody} title="Northwest Boise" img={testImg2} />
+	<StayInTouch />
 </div>
